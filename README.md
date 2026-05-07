@@ -198,6 +198,12 @@ This project explores how Retrieval-Augmented Generation (RAG) can be used to bu
 
 ---
 
+## Live Demo
+
+https://pharma-rag-assistant-adjakossa-eric.streamlit.app/
+
+---
+
 # Limitations
 
 - Works best with text-based PDFs (not scanned documents)
