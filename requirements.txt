@@ -3,4 +3,5 @@ python-dotenv
 chromadb
 pypdf
 numpy
+streamlit
 
